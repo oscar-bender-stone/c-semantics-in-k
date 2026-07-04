@@ -7,7 +7,7 @@ and
 
 New additions:
 
-- Docker container with pinned K versions.
+- (WIP) Interactive examples in Docker.
 
 ---
 
